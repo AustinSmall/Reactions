@@ -21,6 +21,13 @@ export const projects = [
     image: "./Nim.png",
     link: "http://nim-portal.herokuapp.com/",
   },
+  {
+    title:"Durham Greenbook",
+    description:
+    "This is the current project I am working on as a final project for one of my classes. This projects is a collection of information about historical locations in Durham, North Carolina found in The Negro Motorist Green book. The information was collected by myself and my classmates under the direction of our instructor. It aims to highlight",
+    image: "./Greenbook.jpeg",
+    link: "https://github.com/AustinSmall/Greenbook"
+  }
 ];
 
 export const skills = [
